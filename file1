@@ -1,0 +1,1 @@
+pip install fastapi uvicorn sqlalchemy pydantic[dotenv] psycopg2-binary  # psycopg2-binary for PostgreSQL, or use sqlite
